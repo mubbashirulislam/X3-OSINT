@@ -1,4 +1,3 @@
-# X3-OSINT
 
 
 ![X3-OSINT Logo](banner.png)
