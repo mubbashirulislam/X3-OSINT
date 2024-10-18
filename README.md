@@ -1,6 +1,9 @@
 # X3-OSINT
 
 
+![X3-OSINT Logo](banner.png)
+
+
 ## Overview
 
 The **X3-OSINT** is a Python-based tool that allows you to quickly check the availability of a specific username across multiple social media platforms. The tool automates the process of visiting each platform, checking if the username exists, and then saving the results in an Excel file.
