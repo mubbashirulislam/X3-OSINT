@@ -143,8 +143,3 @@ Results saved to results/social_media_exampleuser_20241018_1450.xlsx
 
 This project is open-source and available under the [MIT License](LICENSE).
 
-## Author
-
-Developed by **X3NIDE**  
-GitHub: [mubbashirulislam](https://github.com/mubbashirulislam)
-```
